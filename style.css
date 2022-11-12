@@ -9,8 +9,18 @@ td{
 }  thead{
     font-weight: 900;
     font-size: 17px;
+    text-align: center;
 }
 .russian{
     font-weight: 900;
     font-size: 17px; 
+}
+.kith{
+    text-align: left;
+}
+caption{
+    color: rgb(235, 235, 84);
+    font-weight: 900;
+    font-size: 30px;
+    margin-bottom: 15px;
 }
